@@ -1,0 +1,72 @@
+@font-face{
+    font-family: blacksword;
+    src: url(fonts/blacksword.otf);
+}
+@font-face{
+    font-family: bold;
+    src: url(fonts/bold.ttf);
+}
+body{
+    background-image: url(images/brightplanet.jpg);
+    background-color: black;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-family:"bold", sans-serif;
+}
+h1{
+    font-family: "blacksword",   sans-serif;
+}
+#nav {
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #262626;
+    background-image: url(images/nebula.jpg);
+    background-size: 100%;
+}
+#nav li {
+    float: left;
+}
+#nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#nav li a:hover {
+    background-color: #555;
+    color: white;
+}
+#gandhi{
+    text-align: center
+}
+
+#portfolio {
+    list-style-type: none;
+}
+#social {
+    text-align: center;
+}
+#notes {
+    list-style:  none inside;
+}
+a:link {
+    color:cyan;
+}
+a:visited {
+        color:purple;
+}
+#hobbies {
+    list-style-type: none;
+}
+#notetitle {
+    font-size: 30px;
+}
+#border {
+    border-bottom: solid;
+    border-bottom-color:white;
+}
