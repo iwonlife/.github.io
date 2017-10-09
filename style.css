@@ -65,8 +65,9 @@ a:visited {
 }
 #notetitle {
     font-size: 30px;
+    color: black;
+    background-color: black;
 }
 #border {
     border-bottom: solid;
     border-bottom-color:white;
-}
