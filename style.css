@@ -72,3 +72,6 @@ a:visited {
     border-bottom: solid;
     border-bottom-color:white;
 }
+#gamehead {
+    font-family: bold
+}
