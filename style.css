@@ -7,7 +7,7 @@
     src: url(fonts/bold.ttf);
 }
 body{
-    background-image: url(images/brightplanet.jpg);
+    background-image: url(images/762428.jpg);
     background-color: black;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -58,7 +58,7 @@ a:link {
     color:cyan;
 }
 a:visited {
-        color:purple;
+        color:red;
 }
 #hobbies {
     list-style-type: none;
